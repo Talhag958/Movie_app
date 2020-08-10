@@ -29,7 +29,7 @@ cd client
 npm install
 
 
-
+git pish
 
 
 Enjoy the app
